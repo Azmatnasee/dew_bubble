@@ -1,5 +1,5 @@
 def antoine( a, T):
-    # Ps = antoine( a, T)
+    # Ps = antoine( a,T)
     #
     # Uses Antoine's equation to obtain the vapor pressure of a substance given
     # the coefficients of the equation:
